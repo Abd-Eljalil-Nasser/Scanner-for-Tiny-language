@@ -9,29 +9,29 @@ up into tokens.
 ### Tokens of the TINY language
 
 #### Reserved Words
-- if                  
-- then                
-- else                
-- end
-- repeat
-- until
-- read
-- write
+###### if                  
+###### then                
+###### else                
+###### end
+###### repeat
+###### until
+###### read
+###### write
 #### Special Symbols
--  +
--  -
--  *
--  /
--  =
--  <
--  (
--  )
--  ;
--  :=
+###### +
+###### -
+###### *
+###### /
+###### =
+###### <
+###### (
+###### )
+###### ;
+###### :=
 
 #### Other 
-- number (1 or more digits)
-- identifier (1 or more letters)
+###### number (1 or more digits)
+###### identifier (1 or more letters)
 
 ### TINY has the following lexical conventions:
 - Comments are enclosed in curly brackets {...}
@@ -43,24 +43,24 @@ TINY language snippet code ( multiple lines of code written in TINY language syn
 ## output 
 List of ( tokenvalue, tokentype)
 ### tokentype for all tokens 
-- if     -> IF
-- then   -> THEN         
-- else   -> ELSE
-- end    -> END
-- repeat -> REPEAT
-- until  -> UNTIL
-- read   -> READ
-- write  -> WRITE
-- +      -> Plus
-- -      -> Minus
-- *      -> Multiply 
-- /      -> Division
-- =      -> Equal
-- <      -> Smaller than 
-- (      -> Open Bracket 
-- )      -> Close Bracket 
-- ;      -> Semicolon
-- :=     -> Assign
+###### if     -> IF
+###### then   -> THEN         
+###### else   -> ELSE
+###### end    -> END
+###### repeat -> REPEAT
+###### until  -> UNTIL
+###### read   -> READ
+###### write  -> WRITE
+###### +      -> Plus
+###### -      -> Minus
+###### *      -> Multiply 
+###### /      -> Division
+###### =      -> Equal
+###### <      -> Smaller than 
+###### (      -> Open Bracket 
+###### )      -> Close Bracket 
+###### ;      -> Semicolon
+###### :=     -> Assign
 
 #### Example:
 x , Identifier
