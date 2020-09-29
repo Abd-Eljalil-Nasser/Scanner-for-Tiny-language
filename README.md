@@ -18,16 +18,16 @@ up into tokens.
 - read
 - write
 #### Special Symbols
-- +
-- -
-- *
-- /
-- =
-- <
-- (
-- )
-- ;
-- :=
+-  +
+-  -
+-  *
+-  /
+-  =
+-  <
+-  (
+-  )
+-  ;
+-  :=
 
 #### Other 
 - number (1 or more digits)
