@@ -70,3 +70,4 @@ x , Identifier
 4,number
 
 ### Test 
+![](https://github.com/Abd-Eljalil-Nasser/Scanner-for-Tiny-language/blob/master/scanner.png)
